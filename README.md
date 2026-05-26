@@ -8,8 +8,6 @@
 
 | 文章 | 简介 |
 |------|------|
-| [DLL 侧加载：一次完整的白加黑实战记录](./articles/dll_practice.md) | 从理论到实战的 DLL 侧加载全流程，涵盖扫描→分析→模拟→验证 |
-| [DLL 白加黑技术深度分析](./articles/dll_whitepaper.md) | DLL 代理/转发原理、8 组白程序分类、导出表分析方法论 |
 | [npm 蠕虫攻击爆发！开发者紧急自查手册](./articles/npm-worm-self-check.md) | TanStack 供应链攻击事件的自查与清理完整流程 |
 
 ### 思想
